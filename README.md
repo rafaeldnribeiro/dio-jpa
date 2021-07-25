@@ -1,6 +1,8 @@
-#Entendendo o JPA
+## Entendendo o JPA
 
-###Passos para utilizar o JPA na sua aplicação:
+
+
+#### Passos para utilizar o JPA na sua aplicação:
 
 1.Realizar o download do Java Persistence API(JPA) e do driver JDBC para o BD MySQL.
 É possivel baixar manualmente ou através do Gradle ou Maven;
@@ -22,7 +24,8 @@ driver e classes que serão mapeadas para serem usadas pelo JPA.
 4.Configurar o entityManager
 
 
-###Passos para utilizar o Hibernate com as especificações JPA:
+
+#### Passos para utilizar o Hibernate com as especificações JPA:
 
 1.Realizar o download da API de implementação desejada.É possivel baixar manualmente ou através do Gradle ou Maven.
 
