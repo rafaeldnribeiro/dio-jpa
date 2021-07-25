@@ -1,0 +1,4 @@
+diojpa/model/Aluno.java
+ diojpa.model.Aluno
+diojpa/aplicacao/Main.java
+ diojpa.aplicacao.Main
